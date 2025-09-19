@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'BuildLog.md'
+      - 'BuildLog-1.md'
   workflow_dispatch:
 env:
   BUILD_TYPE: Release
